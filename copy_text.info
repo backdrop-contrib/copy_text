@@ -1,0 +1,8 @@
+name = Copy Text
+description = Create an icon that copies text to the clipboard.
+package = Other
+backdrop = 1.x
+type = module
+
+scripts[] = js/copy_text.js
+stylesheets[all][] = css/copy_text.css
